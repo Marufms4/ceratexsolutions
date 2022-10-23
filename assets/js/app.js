@@ -10,7 +10,7 @@ particlesJS("particles-js", {
         },
         opacity: { value: 0.2966312312601217, random: false, anim: { enable: true, speed: 0.8120772123013451, opacity_min: 0.1, sync: false } },
         size: { value: 48.10236182596568, random: true, anim: { enable: true, speed: 40, size_min: 0.1, sync: false } },
-        line_linked: { enable: true, distance: 352.750653390415, color: "#ffffff", opacity: 0.4, width: 1 },
+        line_linked: { enable: false, distance: 352.750653390415, color: "#ffffff", opacity: 0.4, width: 1 },
         move: { enable: true, speed: 6, direction: "none", random: false, straight: false, out_mode: "out", bounce: false, attract: { false: true, rotateX: 600, rotateY: 1200 } },
     },
     interactivity: {
